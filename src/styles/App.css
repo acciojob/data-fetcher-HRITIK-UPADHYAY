@@ -1,1 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.loading {
+    margin: 1rem;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+.userData {
+    margin: 0rem 1rem;
+}
+
+.products {
+    margin: 0rem 2.3rem;
+}
+
+.item {
+    margin: 0rem 3.5rem;
+}
+
+.attribute {
+    margin: 0rem 4.7rem;
+}
+
+.image {
+    margin: 0rem 5.5rem;
+}
 
